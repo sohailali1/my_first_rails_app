@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.1'
 group :development, :test do
   gem 'sqlite3'
 end
-#my change
+#second change
 group :production do
   gem 'pg'
 end
